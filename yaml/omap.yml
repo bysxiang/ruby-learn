@@ -1,0 +1,4 @@
+---
+pool: !!omapxx { name: java }
+
+pool2: !!omapxx { name: c# }
